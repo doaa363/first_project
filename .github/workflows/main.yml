@@ -1,0 +1,7 @@
+print('welocome to my program')
+user_name =input('what is your name ')
+print(user_name + ' hi there' )
+info= input('what is your chanal about? ')
+print ('thats sound good')
+print('what about this name')
+cocking_name = input= print('you could name your chanal '+(info+ ' with '+ user_name))
